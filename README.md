@@ -1,14 +1,13 @@
-# Calculadora Simples
-Esse projeto é um aplicativo android nativo, desenvolvido com a linguagem de programação Kotlin, tem como principal funcionalidade fazer cálculos com as operações fundamentais.
+# Simple Calculator
+This project is a native Android application developed using the Kotlin programming language. Its main functionality is to perform calculations with fundamental operations.
 
 ## :camera_flash: Screenshots
-<!-- You can add more screenshots here if you like -->
 <p float="left">
   <img src="https://github.com/user-attachments/assets/88649b68-7778-4d6a-953e-9c8e79263767" width="250"/> 
   <img src="https://github.com/user-attachments/assets/1f460bfd-6897-4462-b291-434b3a3a26d0" width="250"/>
 </p>
 
-## Tecnologias
+## Technologies
 - Activity
 - ViewGroups
   - ConstraintLayout

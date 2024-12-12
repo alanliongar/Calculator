@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:textSize="30sp"
         android:textStyle="bold"
-        android:text="Calculadora"
+        android:text="Calculator"
         android:textColor="@color/verde_esmeralda"
         app:layout_constraintBottom_toTopOf="@id/vg_textviews"
         app:layout_constraintEnd_toEndOf="parent"
@@ -59,7 +59,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@id/display"
-            tools:text="resultado" />
+            tools:text="result" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
