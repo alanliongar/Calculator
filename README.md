@@ -3,8 +3,8 @@ This project is a native Android application developed using the Kotlin programm
 
 ## :camera_flash: Screenshots
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/88649b68-7778-4d6a-953e-9c8e79263767" width="250"/> 
-  <img src="https://github.com/user-attachments/assets/1f460bfd-6897-4462-b291-434b3a3a26d0" width="250"/>
+  <img src="https://github.com/alanliongar/Des3_Calculator/blob/master/Screenshot_20241212_173450.png" width="250"/> 
+  <img src="https://github.com/alanliongar/Des3_Calculator/blob/master/Screenshot_20241212_173508.png" width="250"/>
 </p>
 
 ## Technologies
